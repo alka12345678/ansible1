@@ -1,3 +1,2 @@
 [webservers]
-192.168.56.1
-192.168.2.26
+localhost ansible_connection=local
